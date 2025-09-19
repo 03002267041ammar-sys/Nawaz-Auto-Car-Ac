@@ -1,6 +1,6 @@
 ---
 title: nawaz-auto-car-ac
-emoji: 🐳
+emoji: 🚗
 colorFrom: purple
 colorTo: blue
 sdk: static
